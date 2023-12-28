@@ -45,8 +45,8 @@ During the training we performed a number of evaluation steps for our models. Fi
 SHAP Values visualize the influence of the input parameter on the output value. With this information you can reduce the number of input parameters to a small amount which are truly affecting the outcome of the AI. With these parameters on hand we were able to evaluate and compare our various different models.
 
 
-* Image from anomaly detection from first to scnd tunnel
-
+![Tool wear over the sections](../figures/ToolWearOverTheSectinos.svg)
+![Anomaly Prediction on tool wear](../figures/AnomalyPredictionOnToolWear.svg)
 
 ## Lesson's learned
 less input parameters are often better than useless parameters
